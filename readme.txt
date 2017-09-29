@@ -9,3 +9,5 @@ Git tracks changes of files.
 555
 Creating a new branch is quick.
 I create a new brunch - dev.
+If we can commit or not?
+
