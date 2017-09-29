@@ -8,3 +8,4 @@ Git tracks changes of files.
 444
 555
 Creating a new branch is quick.
+If we can commit or not?
