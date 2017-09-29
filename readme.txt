@@ -7,3 +7,4 @@ Git tracks changes of files.
 333
 444
 555
+Creating a new branch is quick.
