@@ -21,4 +21,4 @@ This is master branch.
 =======
 Test a new mode of branch merging.
 >>>>>>> dev
-
+Change the content of reademe.txt in the branch dev.
