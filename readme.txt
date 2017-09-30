@@ -21,3 +21,4 @@ This is master branch.
 =======
 Test a new mode of branch merging.
 >>>>>>> dev
+
