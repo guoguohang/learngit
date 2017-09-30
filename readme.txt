@@ -11,3 +11,4 @@ Creating a new branch is quick.
 I create a new brunch - dev.
 If we can commit or not?
 This is the message i will commit.
+Creating a new branch is quick AND simple.
