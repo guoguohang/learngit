@@ -16,4 +16,8 @@ Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
+<<<<<<< HEAD
 This is master branch.
+=======
+Test a new mode of branch merging.
+>>>>>>> dev
