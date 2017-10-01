@@ -28,4 +28,8 @@ My computer in the lab.
 =======
 My personal computer.
 >>>>>>> 0f1c5c9bb7e29106a390ac6a09b5944ef6eda455
+<<<<<<< HEAD
 My personal computer again.
+=======
+Lab computer again.
+>>>>>>> 8274843deeb16eca3a314a6a8690c5c8d738d841
